@@ -21,8 +21,6 @@
 ---
 
 ## 🚀 Về tôi
-- 🎓 Giảng viên Công nghệ thông tin  
-- 🧠 Chuyên về **E-learning, AI, Data Science, DevOps**  
 - 🔭 Hiện đang phát triển **Moodle LMS**, **Keycloak SSO**, **AI Auto Grader (VPL)**  
 - ☁️ Tích hợp hệ thống lưu trữ **ObjectFS (S3)**  
 - ⚙️ Làm việc nhiều với **aaPanel, Nginx, Ubuntu Server, Python, PHP, MySQL**  
