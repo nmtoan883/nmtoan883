@@ -2,8 +2,6 @@
 
 <!-- HEADER -->
 <h1 align="center">👋 Xin chào, Tôi là <span style="color:#ff4c8b;">Nguyễn Minh Toàn</span></h1>
-<h3 align="center">💻 Giảng viên & Nhà phát triển hệ thống học tập thông minh</h3>
-
 <p align="center">
   <a href="https://facebook.com/Founder.nguyenminhtoan"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
   <a href="https://linkedin.com/in/nguyenminhtoan"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
