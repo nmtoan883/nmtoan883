@@ -1,75 +1,12 @@
-<!-- 💫 GitHub Profile README | Designed for Nguyễn Minh Toàn -->
 
-<!-- HEADER -->
-<h1 align="center">👋 Xin chào, Tôi là <span style="color:#ff4c8b;">Nguyễn Minh Toàn</span></h1>
-<p align="center">
-  <a href="https://facebook.com/Founder.nguyenminhtoan"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/nguyenminhtoan"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-  <a href="https://nmt.io.vn"><img src="https://img.shields.io/badge/Website-nmt.io.vn-00C4CC?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-</p>
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=nmtoan883&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=nmtoan883&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nmtoan883&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=nmtoan883&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- BANNER -->
-<p align="center">
-  <img src="https://i.imgur.com/Zz0Wb6y.png" alt="Banner" width="80%"/>
-</p>
-
----
-
-## 🚀 Về tôi
-- 🔭 Hiện đang phát triển **Moodle LMS**, **Keycloak SSO**, **AI Auto Grader (VPL)**  
-- ☁️ Tích hợp hệ thống lưu trữ **ObjectFS (S3)**  
-- ⚙️ Làm việc nhiều với **aaPanel, Nginx, Ubuntu Server, Python, PHP, MySQL**  
-- 💬 Thích tạo ra các hệ thống *“tự động, hiệu quả và dễ dùng”*  
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,cpp,cs,java,html,css,js,nodejs,react,flutter,bootstrap,nginx,mysql,mongodb,git,github,linux,vscode,figma,ps,pr,ae,ai" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenminhtoan01167&theme=radical&show_icons=true&hide_border=true" height="160px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=nguyenminhtoan01167&theme=radical&hide_border=true" height="160px"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenminhtoan01167&layout=compact&theme=radical&hide_border=true" height="160px"/>
-</p>
-
----
-
-## 🏆 GitHub Achievements
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nguyenminhtoan01167&theme=radical&no-frame=true&margin-w=8&margin-h=8"/>
-</p>
-
----
-
-## 🧩 Dự án tiêu biểu
-- 🧠 [Moodle AI Grader & VPL Automation](https://github.com/nguyenminhtoan01167/moodle-ai-vpl)
-- 🔐 [Keycloak SSO Integration for Moodle](https://github.com/nguyenminhtoan01167/keycloak-sso)
-- 📊 [GPA Management System](https://github.com/nguyenminhtoan01167/gpa-manager)
-- 🚍 [ITS Smart Transport Simulation](https://github.com/nguyenminhtoan01167/its-project)
-
----
-
-## 🌈 Quote ưa thích
-> “Công nghệ chỉ thực sự có ý nghĩa khi giúp con người học tốt hơn, nhanh hơn và vui hơn.”
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-  <i>✨ Cảm ơn bạn đã ghé thăm hồ sơ của tôi! Hãy follow để cùng nhau chia sẻ kiến thức và sáng tạo ✨</i>
-  <br><br>
-  <img src="https://github.com/nguyenminhtoan01167/nguyenminhtoan01167/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
