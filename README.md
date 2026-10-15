@@ -9,7 +9,7 @@
 
 ### 📌 About Me
 
-- 🎓 **Education:** Information Technology at University of Transportation and Communications (UTH).
+- 🎓 **Education:** Information Technology at University of Transport City hoặc University of Transport Ho Chi Minh City (UTH).
 - 💻 **Core Focus:** Web Development, Front-end UI/UX architecture, and PHP backends.
 - ⚙️ **Systems:** Learning Management System (Moodle) administration and database design.
 - 🎯 **Working Style:** Modular code structure, systematic delegation, and clean documentation.
