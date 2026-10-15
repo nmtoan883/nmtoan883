@@ -3,13 +3,13 @@
 > **Software Engineer & Web Developer**  
 > Focused on clean front-end architecture, backend systems, and educational platforms.
 
-[GitHub](https://github.com/nmtoan883) • [LinkedIn](https://linkedin.com) • [Email](mailto:toannguyen@example.com)
+[GitHub](https://github.com/nmtoan883) • [LinkedIn](https://linkedin.com) • [Email](mailto:nmtoan883@gmail.com)
 
 ---
 
 ### 📌 About Me
 
-- 🎓 **Education:** Information Technology at University of Transport City hoặc University of Transport Ho Chi Minh City (UTH).
+- 🎓 **Education:** Information Technology at University of Transport Ho Chi Minh City(UTH).
 - 💻 **Core Focus:** Web Development, Front-end UI/UX architecture, and PHP backends.
 - ⚙️ **Systems:** Learning Management System (Moodle) administration and database design.
 - 🎯 **Working Style:** Modular code structure, systematic delegation, and clean documentation.
@@ -51,7 +51,7 @@
 I am always open to discussing web engineering, database architecture, or collaborative development:
 
 - 💬 **Ask me about:** HTML/CSS architecture, PHP, SQL queries, Moodle configuration.
-- 📬 **Reach out:** Feel free to ping me via [Email](mailto:toannguyen@example.com) or connect through [GitHub](https://github.com/nmtoan883).
+- 📬 **Reach out:** Feel free to ping me via [Email](mailto:nmtoan883@gmail.com) or connect through [GitHub](https://github.com/nmtoan883).
 
 ---
 <div align="center">
